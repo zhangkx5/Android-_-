@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">记一记</string>
+    <string name="appwidget_text">记一记</string>
+    <string name="add_widget">记一记</string>
+</resources>
